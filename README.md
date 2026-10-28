@@ -1,3 +1,11 @@
+
+<div align="center">
+  <img src="./matrix.gif" width="100%" alt="Efeito Matrix com código caindo">
+</div>
+
+---
+
+
 Olá, eu sou o Arthur
 
 Estudante de **Engenharia de Software**, em transição de carreira para tecnologia. Formado em **ADS** e técnico em **Desenvolvimento de Sistemas**. Foco em **back-end**.
